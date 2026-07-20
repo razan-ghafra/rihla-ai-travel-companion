@@ -1,16 +1,54 @@
-Rihla – AI Travel Companion
+# 🌍 Rihla – AI Travel Companion for Riyadh
 
-An AI-powered travel planning web application that creates personalized travel experiences in Riyadh based on users’ interests, schedules, and budgets.
+Rihla is an AI-powered travel companion that creates personalized experiences in Riyadh based on each user's interests, budget, travel style, group type, and available time.
 
-Features
+Instead of browsing endless lists of attractions, users simply describe what they want, and Rihla generates a tailored travel experience with intelligent recommendations and contextual local insights.
 
-* AI-powered travel recommendations
-* Personalized itinerary planning
-* Explore attractions and destinations
-* Save favorite places
-* Mobile-first responsive design
-* Clean and intuitive user interface
+## ✨ Features
 
-Technologies
+- 🤖 AI-powered personalized trip recommendations
+- 🗺️ Intelligent itinerary generation
+- 💰 Budget-aware suggestions
+- 👤 Personalized travel preferences
+- 👨‍👩‍👧 Support for solo, couples, families, and groups
+- 📍 Discover landmarks and hidden gems
+- ❤️ Save favorite trips
+- 🌙 Dark mode
+- 🌐 Arabic & English support
+- 📱 Responsive mobile-first design
 
-* Replit
+---
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- PostgreSQL
+- Replit
+- AI Integration
+
+
+---
+
+## 💡 Project Highlights
+
+- Conversational AI experience instead of traditional travel forms.
+- Generates personalized Riyadh experiences based on user preferences.
+- Modern startup-style UI focused on simplicity and usability.
+- Mobile-first responsive interface.
+- Clean architecture with scalable components.
+
+---
+
+## 🎯 Future Improvements
+
+- Real-time weather integration
+- Booking and reservation support
+- Voice assistant
+- Multi-city support
+- Offline trip access
+
+---
